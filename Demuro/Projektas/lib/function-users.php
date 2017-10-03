@@ -3,7 +3,7 @@
    define( "DB_NAME", 'demuro');
    define( "HOST", 'localhost');
    define( "DB_USERNAME", 'edgaras01');  // root
-   define( "DB_PASS", 'ergo01');            // root
+   define( "DB_PASS", 'xxxx');            // root
 
 
    $connection = mysqli_connect( HOST, DB_USERNAME, DB_PASS, DB_NAME);

@@ -21,7 +21,7 @@ try {
     $mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'qbasss@gmail.com';                 // SMTP username //mano emailas
-    $mail->Password = 'ergo874125';                            // SMTP password  //mano pass
+    $mail->Password = 'xxxx';                            // SMTP password  //mano pass
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to //paziuret gmail koks
 
